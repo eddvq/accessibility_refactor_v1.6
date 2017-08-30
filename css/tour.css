@@ -14,3 +14,12 @@ pre {
   height: 0%;
   padding: 10px;
 }
+
+caption {
+    margin-bottom: 25px;
+    margin-top: 16px;
+}
+
+th {
+  padding: 0px 125px 15px 0;
+}

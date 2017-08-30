@@ -99,6 +99,10 @@ header .name{
   margin-top: 10px;
 }
 
+.tourDates{
+  margin: 0 auto;
+}
+
 .tagline {
   font-weight: 600;
   padding: 20px;
