@@ -25,6 +25,17 @@ a:hover {
 
 /* Section Styles */
 
+.buybutton{
+  border: none;
+  background-color: darkred;
+  padding: 10px 30px;
+}
+
+.buybutton a {
+  padding: 10px 30px;
+}
+
+
 .main-nav {
   width: 100%;
   background: rgba(18, 17, 21, 0.93);
